@@ -1,0 +1,179 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	 background-color: #33cc99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.jacob{
+	text-align: center;
+	color: green;
+	margin-top: 30px;
+}
+.zz{
+	margin-top: 20px;
+}
+
+/*==================container=========================*/
+
+.container {
+	width: 90%;
+	background-color: white;
+	height: auto;
+	float: left;	
+}
+.kubik{
+	display: inline-block;
+}
+.masti{
+	width: 30px;
+	height: 30px;
+}
+.phon {
+	background-image: url(1.jpg);
+}
+.icon{
+	display: flex;
+	justify-content: center;
+}
+
+.lol{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 70px;
+}
+.lorem{
+	margin-left: 100px;
+}
+
+.hack{
+	display: flex;
+	justify-content: center;
+}
+
+
+.putin_1{
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+
+
+.putin{
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+
+}
+
+.button-2{
+	color: #fff;
+	background-color: green;
+	width: 400px;
+	height: 70px;
+	font-size: 20px;
+	border-radius: 7px;
+	border: 1px solid black	
+}
+.item{
+	font-size: 20px;
+	border-radius: 7px;
+	background-color: green;
+	width: 400px;
+	height: 70px;
+	color: #fff;
+}
+.YOU{
+	color: black;
+}
+
+.item-2{
+	color: green;
+	font-size: 20px;
+	border: 3px solid green;
+	width: 240px;
+	height: 50px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+}
+/*n=========================nav===============*/
+ul {	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.pol {
+	
+	text-decoration: none;
+	color: green;
+	font-size: 25px;
+	padding: 0 30px 0 30px;
+}
+.icons{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+}
+.bibi-facebook, .bibi-twitter, .bibi-instagram, .bibi-linkedin{
+	margin-left:  30px;
+}
+.item-3{
+	width: 400px;
+	height: 60px;
+	background-color: green;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.mm{
+	display: flex;
+	justify-content: center;
+}
+
+.bb{
+	background-color: green;
+}
+.dog{
+	background-color: green;
+}
+
+
+.container6{
+	background-color: green;
+	display: flex;
+	margin-right: 20px;
+	color: #fff;
+	justify-content: space-around;
+}
+
+.bais{
+	padding: 20px;
+}
+
+
+
+/*==================TEXT================================*/
+ h2 {
+ 	text-align: center;
+ 	text-transform:uppercase;
+ 	color: green;
+ }
+ p {
+ 	color: green;
+ 	font-family: 'IBM Plex Sans Arabic', sans-serif;
+ }
+
+/*============================blocks===========*/
+.firsthat, .hattext {
+	margin-top: 120px;
+	width: 50%;
+	float: left;
+}
+ input {
